@@ -142,5 +142,32 @@
         "classify": "二次元相关",
         "top": false,
         "describe": "如题, 这是精简的版本, 也是更符合社会主义现代化建设, 有利于维护世界和平统一的全新版本...(笑)"
+    },
+    "16": {
+        "id": "16",
+        "titel": "读 <黄金时代>",
+        "author": "AerospacePig",
+        "date": "2024.3.24-16:23",
+        "classify": "阅读笔记",
+        "top": false,
+        "describe": "如题, 读书笔记"
+    },
+    "17": {
+        "id": "17",
+        "titel": "读，<失明者漫记>",
+        "author": "AerospacePig",
+        "date": "2024.3.24-16:23",
+        "classify": "阅读笔记",
+        "top": false,
+        "describe": "如题, 读书笔记"
+    },
+    "18": {
+        "id": "18",
+        "titel": "读 <霍乱时期的爱情>",
+        "author": "AerospacePig",
+        "date": "2024.3.24-16:23",
+        "classify": "阅读笔记",
+        "top": false,
+        "describe": "如题, 读书笔记"
     }
 }
